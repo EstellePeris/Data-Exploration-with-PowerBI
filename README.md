@@ -11,3 +11,6 @@ These projects were carried out to familiarize with data visualization, data cle
 - **Microsoft PowerBI**
 
 ---
+
+## Link
+https://app.powerbi.com/browse/recent?experience=power-bi
