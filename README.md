@@ -3,7 +3,7 @@
 ---
 
 ## Description
-These projects were carried out to familiarize with data visualization, data cleaning, and the DAX concept in PowerBI.
+These projects were carried out with the aim of familiarising with data visualization, data cleaning and the DAX concept in PowerBI.
 
 ---
 
